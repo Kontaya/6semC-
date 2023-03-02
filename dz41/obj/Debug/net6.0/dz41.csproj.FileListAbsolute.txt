@@ -1,0 +1,15 @@
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\bin\Debug\net6.0\dz41.exe
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\bin\Debug\net6.0\dz41.deps.json
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\bin\Debug\net6.0\dz41.runtimeconfig.json
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\bin\Debug\net6.0\dz41.dll
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\bin\Debug\net6.0\dz41.pdb
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\obj\Debug\net6.0\dz41.csproj.AssemblyReference.cache
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\obj\Debug\net6.0\dz41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\obj\Debug\net6.0\dz41.AssemblyInfoInputs.cache
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\obj\Debug\net6.0\dz41.AssemblyInfo.cs
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\obj\Debug\net6.0\dz41.csproj.CoreCompileInputs.cache
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\obj\Debug\net6.0\dz41.dll
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\obj\Debug\net6.0\refint\dz41.dll
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\obj\Debug\net6.0\dz41.pdb
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\obj\Debug\net6.0\dz41.genruntimeconfig.cache
+C:\Users\t-mo_\OneDrive\Рабочий стол\6semC#\dz41\obj\Debug\net6.0\ref\dz41.dll
